@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+}
+
+img {
+
+    width: 500px;
+}
+
+p {
+    color: rgb(4, 0, 255)
+}
+
+h1 {
+    color: blue
+}
